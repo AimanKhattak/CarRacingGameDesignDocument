@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+	 font-family:sans-serif;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color:white;
+  padding-top: 50px;
+  padding-left: 80px;
+
+}
+.executive-summary{
+	
+	color:black;
+	background-color: white;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: top;
+   height: 100vh;
+   padding-top: 10px;
+   margin-bottom: 50px;
+   margin-right: 10px;
+   margin-left: 100px;
+
+   padding: 100px
+
+}
