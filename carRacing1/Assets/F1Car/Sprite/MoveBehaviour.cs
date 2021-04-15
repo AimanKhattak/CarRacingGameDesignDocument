@@ -20,6 +20,7 @@ public class MoveBehaviour : MonoBehaviour
     {
         // processing vertical user inputs
         float vertical_input = Input.GetAxis("Vertical");
+       
         rigidbody.velocity = new Vector2(rigidbody.velocity.x, vertical_input * speed);
         // processing Horizontal user inputs conditionally 
         // Check if car is moving

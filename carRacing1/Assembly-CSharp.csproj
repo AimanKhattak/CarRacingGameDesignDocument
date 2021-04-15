@@ -53,6 +53,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\F1Car\Sprite\MoveBehaviour.cs" />
+    <Compile Include="Assets\F1Car\Sprite\Fire\animbehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
